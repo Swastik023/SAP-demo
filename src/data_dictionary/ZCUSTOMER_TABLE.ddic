@@ -1,0 +1,6 @@
+Table Name: ZCUSTOMER_TABLE
+Fields:
+- CUSTOMER_ID (KUNNR) [Primary Key]
+- CUSTOMER_NAME (NAME1)
+- CUSTOMER_ADDRESS (STRAS)
+Description: A custom table storing customer information for enhanced data management.

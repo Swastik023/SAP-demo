@@ -1,0 +1,9 @@
+View Name: ZMATERIAL_VIEW
+Base Tables:
+- MARA (Material Master)
+- MARD (Storage Location Data)
+Fields:
+- MATERIAL_ID (MATNR)
+- MATERIAL_TYPE (MTART)
+- STORAGE_LOCATION (LGORT)
+Description: A custom view combining material master and storage location data.

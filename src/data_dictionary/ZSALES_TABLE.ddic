@@ -1,0 +1,6 @@
+Table Name: ZSALES_TABLE
+Fields:
+- SALES_ORDER_ID (VBELN) [Primary Key]
+- SALES_ORG (VKORG)
+- NET_VALUE (NETWR)
+Description: A custom table storing sales order information, optimized for reporting.
